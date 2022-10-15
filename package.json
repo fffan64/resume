@@ -3,9 +3,10 @@
   "description": "The Curriculum Vitae Template",
   "scripts": {
     "build": "node src/build.js",
-    "watch": "chokidar '**/*' -i 'dist/**/*' -c 'npm run build'",
+    "watch": "chokidar \"**/*\" -i \"dist/**/*\" -c \"npm run build\"",
+    "serve": "live-server dist",
     "prestart": "npm run build",
-    "start": "npm run watch & live-server dist",
+    "start": "npm-run-all --parallel watch serve",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
@@ -27,11 +28,13 @@
     "chokidar-cli": "^3.0.0",
     "dayjs": "^1.11.4",
     "fs-extra": "^10.1.0",
+    "gh-pages": "^4.0.0",
     "git-repo-name": "^1.0.1",
     "git-username": "^1.0.0",
     "handlebars": "^4.7.7",
     "live-server": "^1.2.2",
     "markdown": "^0.5.0",
+    "npm-run-all": "^4.1.5",
     "puppeteer": "^16.1.0",
     "speakingurl": "^14.0.1",
     "watch": "^1.0.2"
