@@ -23,31 +23,32 @@ module.exports = {
       title: 'AXA Life Japan, Tokyo, JP',
       period: 'Jun 2017 - ?',
       skills: ['Agile', 'Cloud', 'AWS', 'Openshift', 'Jenkins', 'Serverless', 'NodeJS', 'React', 'Jest', 'TypeScript', 'Java / Springboot'],
-      contents: `Lead Software Engineer`
+      // contents: `Lead Software Engineer`
+      contents: 'Lead Software Engineer\n\n* Full AWS serverless app (React SPA on S3 + API Gateway + Lambda)\n* Migration of legacy apps (Liferay Java, J2EE) to the cloud (AWS / Openshift / springboot / react)\n* Diverse APIs in both nodejs and springboot\n* CI/CD Pipeline creation and automation (devOps)\n* Internalization of coding guidelines and good practices\n* Event hosting & animation: CTF / Community of Practice'
     },
     {
       title: 'Orano Japan (ex AREVA), Tokyo, JP',
       period: 'Jun 2015 - Jun 2017',
       skills: ['System', 'Network', 'Support', 'Tool/Scripts', 'Reporting'],
-      contents: `IT Engineer`
+      contents: 'IT Engineer\n\n* Administration and maintenance of IT infrastructures (System and Network)\n* Local and remote user support'
     },
     {
       title: 'LAFON SAS (MADIC Industries), Bordeaux, FR',
       period: 'Sep 2011 - May 2015',
       skills: ['C#', 'Centura/SQL Windows', 'SQL Server', 'C/C++'],
-      contents: `R&D Software Engineer`
+      contents: 'R&D Software Engineer\n\n* Gas station management system\n* Payment terminal system integration'
     },
     {
       title: 'AKKA Technologies I&S, Bordeaux, FR',
       period: 'Apr 2011 - Jul 2011',
       skills: ['3D Lenses Screen', 'Shaders / GLSL', 'OpenGL', 'C/C++'],
-      contents: `R&D Software Engineer`
+      contents: 'R&D Software Engineer\n\n* Generation of real-time 3D scenes 8 point of views\n* Mission for THALES AVIONICS'
     },
     {
       title: 'Techniques Effects, Pau, FR',
       period: 'Jan 2011 - Apr 2011',
       skills: ['Gaming', '3D', 'Shiva3D engine', 'Scripting LUA'],
-      contents: `Software Developer - 2D/3D Production Assist`
+      contents: 'Software Developer - 2D/3D Production Assist\n\n* 3D multiplayer card game using Shiva3D game engine\n* Study / concept / art / project management'
     }
   ],
   education: [
