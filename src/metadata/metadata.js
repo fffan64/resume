@@ -23,26 +23,29 @@ module.exports = {
       title: 'AXA Life Japan, Tokyo, JP',
       period: 'Jun 2017 - ?',
       skills: ['Agile', 'Cloud', 'AWS', 'Openshift', 'Jenkins', 'Serverless', 'NodeJS', 'React', 'Jest', 'TypeScript', 'Java / Springboot'],
-      // contents: `Lead Software Engineer`
-      contents: 'Lead Software Engineer\n\n* Full AWS serverless app (React SPA on S3 + API Gateway + Lambda)\n* Migration of legacy apps (Liferay Java, J2EE) to the cloud (AWS / Openshift / springboot / react)\n* Diverse APIs in both nodejs and springboot\n* CI/CD Pipeline creation and automation (devOps)\n* Internalization of coding guidelines and good practices\n* Event hosting & animation: CTF / Community of Practice'
+      contents: 'Lead Software Engineer\n\n* Full AWS serverless app (React SPA on S3 + API Gateway + Lambda)\n* Migration of legacy apps (Liferay Java, J2EE) to the cloud (AWS / Openshift / springboot / react)\n* Diverse APIs in both nodejs and springboot\n* CI/CD Pipeline creation and automation (devOps)\n* Internalization of coding guidelines and good practices\n* Event hosting & animation: CTF / Community of Practice',
+      img: 'axa_logo.jpg',
     },
     {
       title: 'Orano Japan (ex AREVA), Tokyo, JP',
       period: 'Jun 2015 - Jun 2017',
       skills: ['System', 'Network', 'Support', 'Tool/Scripts', 'Reporting'],
-      contents: 'IT Engineer\n\n* Administration and maintenance of IT infrastructures (System and Network)\n* Local and remote user support'
+      contents: 'IT Engineer\n\n* Administration and maintenance of IT infrastructures (System and Network)\n* Local and remote user support',
+      img: 'orano_logo.jpg',
     },
     {
       title: 'LAFON SAS (MADIC Industries), Bordeaux, FR',
       period: 'Sep 2011 - May 2015',
       skills: ['C#', 'Centura/SQL Windows', 'SQL Server', 'C/C++'],
-      contents: 'R&D Software Engineer\n\n* Gas station management system\n* Payment terminal system integration'
+      contents: 'R&D Software Engineer\n\n* Gas station management system\n* Payment terminal system integration',
+      img: 'madic.jpg',
     },
     {
       title: 'AKKA Technologies I&S, Bordeaux, FR',
       period: 'Apr 2011 - Jul 2011',
       skills: ['3D Lenses Screen', 'Shaders / GLSL', 'OpenGL', 'C/C++'],
-      contents: 'R&D Software Engineer\n\n* Generation of real-time 3D scenes 8 point of views\n* Mission for THALES AVIONICS'
+      contents: 'R&D Software Engineer\n\n* Generation of real-time 3D scenes 8 point of views\n* Mission for THALES AVIONICS',
+      img: 'akka.jpg',
     },
     {
       title: 'Techniques Effects, Pau, FR',
@@ -53,7 +56,7 @@ module.exports = {
   ],
   education: [
     {
-      title: '<b>Computer Engineering Degree</b> - <a href="https://www.imerir.com/">IMERIR</a>, France [2007 - 2010]',
+      title: '<b>Computer Engineering Degree</b> - <a href="https://www.imerir.com/"><img src="imerir.jpg" style="width: 32px; height: 32px; margin-right: 10px; margin-bottom: 6px;"/>IMERIR</a>, France [2007 - 2010]',
       inParallel: [
         '<b>Bachelor of Science in Computing</b> <i>(Student exchange)</i> - <a href="http://www.itb.ie/">Institute of Technology Blanchardstown</a>, Ireland [2009 - 2010]',
         '<b>Master in Sciences, Technologies, Health</b> - <a href="https://www.univ-perp.fr/">Universite de Perpignan</a>, France [2008 - 2009]'
