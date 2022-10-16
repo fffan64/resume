@@ -23,7 +23,7 @@ module.exports = {
       title: 'AXA Life Japan, Tokyo, JP',
       period: 'Jun 2017 - ?',
       skills: ['Agile', 'Cloud', 'AWS', 'Openshift', 'Jenkins', 'Serverless', 'NodeJS', 'React', 'Jest', 'TypeScript', 'Java / Springboot'],
-      contents: `Lead Software Developer`
+      contents: `Lead Software Engineer`
     },
     {
       title: 'Orano Japan (ex AREVA), Tokyo, JP',
