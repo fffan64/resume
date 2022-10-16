@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Jonathan Vacherat',
-  title: 'Lead Sofware Engineer',
+  title: 'Lead Software Engineer',
   facts: {
     'Residence': '<a href="https://goo.gl/maps/A8iRxqwVuiePLa1W6"><i class="fa fa-home fact-icon"></i>Tokyo</a>',
     'LinkedIn': `<a href="https://www.linkedin.com/in/jonathanvacherat">
@@ -15,14 +15,14 @@ module.exports = {
   skills: [
     ['Technical', 100],
     ['Management', 50],
-    ['Team spririt', 100],
-    ['Problem solver', 100],
+    ['Teamwork', 100],
+    ['Problem-solver', 100],
   ],
   positions: [
     {
       title: 'AXA Life Japan, Tokyo, JP',
       period: 'Jun 2017 - ?',
-      skills: ['Cloud', 'AWS', 'Openshift', 'Jenkins', 'Serverless', 'NodeJS', 'React', 'Jest', 'TypeScript', 'Java / Springboot'],
+      skills: ['Agile', 'Cloud', 'AWS', 'Openshift', 'Jenkins', 'Serverless', 'NodeJS', 'React', 'Jest', 'TypeScript', 'Java / Springboot'],
       contents: `Lead Software Developer`
     },
     {
@@ -54,12 +54,12 @@ module.exports = {
     {
       title: '<b>Computer Engineering Degree</b> - <a href="https://www.imerir.com/">IMERIR</a>, France [2007 - 2010]',
       inParallel: [
-        'ERASMUS (Student exchange) Bachelor of Science in Computing - Institute of Technology Blanchardstown, Ireland [2009 - 2010]',
-        'Master in Sciences, Technologies, Health - Universite de Perpignan, France [2008 - 2009]'
+        '<b>Bachelor of Science in Computing</b> <i>(Student exchange)</i> - <a href="http://www.itb.ie/">Institute of Technology Blanchardstown</a>, Ireland [2009 - 2010]',
+        '<b>Master in Sciences, Technologies, Health</b> - <a href="https://www.univ-perp.fr/">Universite de Perpignan</a>, France [2008 - 2009]'
       ]
     },
     {
-      title: 'Undergraduate Technology Degree in Electrical Engineering and Industrial Computing - Universite de Toulouse, France [2005 - 2007]'
+      title: '<b>Undergraduate Technology Degree in Electrical Engineering and Industrial Computing</b> - <a href="https://www.iut-tarbes.fr/">Universite Toulouse III Tarbes</a>, France [2005 - 2007]'
     }
   ],
   certifications: [
